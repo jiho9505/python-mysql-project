@@ -6,7 +6,8 @@
 ## 프로젝트 개발동기
 <p> 3학년 2학기 데이터베이스 프로젝트 </p>
 
-
+## Screen Shot
+![image](https://user-images.githubusercontent.com/50862052/98326068-aba3ed00-2033-11eb-91d3-54fd58cc7363.PNG)
 ## Author
 
 👤 **문지호**
